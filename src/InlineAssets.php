@@ -3,11 +3,8 @@ namespace takeitsro\inlineassets;
 
 use Craft;
 use craft\base\Plugin;
-use yii\base\Event;
-use craft\web\twig\variables\CraftVariable;
-use yourvendor\inlineassets\extensions\InlineJsExtension;
-use yourvendor\inlineassets\extensions\InlineCssExtension;
-use Twig\Environment;
+use yourplugin\extensions\InlineJsExtension;
+use yourplugin\extensions\InlineCssExtension;
 
 class InlineAssets extends Plugin
 {
