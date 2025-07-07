@@ -5,7 +5,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "yourvendor\\inlineassets\\": "src/"
+      "takeitsro\\inlineassets\\": "src/"
     }
   },
   "require": {

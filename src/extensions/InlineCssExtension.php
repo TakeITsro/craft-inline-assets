@@ -1,5 +1,5 @@
 <?php
-namespace modules\inlinecss;
+namespace takeitsro\inlineassets\extensions;
 
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFunction;
