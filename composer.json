@@ -1,5 +1,5 @@
 {
-  "name": "TakeITsro/inline-assets",
+  "name": "takeitsro/inline-assets",
   "type": "craft-plugin",
   "description": "Inline JS and CSS Twig extensions for Craft CMS 5",
   "license": "MIT",
