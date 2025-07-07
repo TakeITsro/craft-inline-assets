@@ -1,0 +1,20 @@
+{
+  "name": "TakeITsro/inline-assets",
+  "type": "craft-plugin",
+  "description": "Inline JS and CSS Twig extensions for Craft CMS 5",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "yourvendor\\inlineassets\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0",
+    "craftcms/cms": "^5.0"
+  },
+  "extra": {
+    "name": "Inline Assets",
+    "handle": "inline-assets",
+    "plugin-class": "yourvendor\\inlineassets\\InlineAssets"
+  }
+}
