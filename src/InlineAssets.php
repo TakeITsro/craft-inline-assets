@@ -1,5 +1,5 @@
 <?php
-namespace yourvendor\inlineassets;
+namespace takeitsro\inlineassets;
 
 use Craft;
 use craft\base\Plugin;
